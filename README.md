@@ -55,6 +55,16 @@ Welcome to **Machine Learning Essentials**! This project was created to serve as
 ---
 
 **Author:** [Paulo Reis]  
-**Contact:** [https://www.linkedin.com/in/pauloreis-ds/]  
+**Contact:**    
+[<img align="left" width="35" height="35" src="https://github.com/pauloreis-ds/Paulo-Reis-Data-Science/blob/master/Paulo%20Reis/linkedin.png">](https://www.linkedin.com/in/pauloreis-ds/) [LinkedIn.](https://www.linkedin.com/in/pauloreis-ds/)
 
 Stay updated and keep learning!
+
+<br>
+
+<br>
+
+
+[<img align="right" width="60" height="60" src="https://github.com/pauloreis-ds/Paulo-Reis-Data-Science/blob/master/Paulo%20Reis/Pauloreis01.png">](https://github.com/pauloreis-ds)
+
+---
