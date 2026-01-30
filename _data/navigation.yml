@@ -1,0 +1,9 @@
+main:
+  - title: Home
+    url: /
+
+  - title: Generate Dataset
+    url: /generate_dataset.html
+
+  - title: Time Series
+    url: /time_series.html
