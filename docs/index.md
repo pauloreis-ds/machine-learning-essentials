@@ -63,7 +63,7 @@ Welcome to **Machine Learning Essentials**! This project was created to serve as
 - Explore more Machine Learning libraries.
 
 
-Data used as Example: [E-commerce Transaction Dataset](generate_dataset.html)
+Data used as Example: [E-commerce Transaction Dataset](generate_dataset.md)
 
 ---
 
