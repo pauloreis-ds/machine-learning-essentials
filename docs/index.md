@@ -62,6 +62,9 @@ Welcome to **Machine Learning Essentials**! This project was created to serve as
 - Examples focused on different sectors (finance, healthcare, marketing, etc.).
 - Explore more Machine Learning libraries.
 
+
+Data used as Example: [E-commerce Transaction Dataset](generate_dataset.html)
+
 ---
 
 **Author:** Paulo Reis  
